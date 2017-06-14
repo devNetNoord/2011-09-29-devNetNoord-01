@@ -1,5 +1,5 @@
-# 2011-09-29-devNetNoord-01
-devNetNoord 01
+# devNetNoord 01
+2011-09-29
 
 Sessies:
 - MVC in de praktijk, Jeroen Swart
